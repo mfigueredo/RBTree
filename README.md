@@ -24,6 +24,3 @@ $ java Main dicionario.txt
 
 * **Mickael Figueredo** - [mfigueredo](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8741438E2)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
